@@ -1,1 +1,12 @@
-Lägg mappar för varje rapport som ska publiceras här
+---
+layout: default
+title: Hem
+---
+
+# Rapporter
+
+Välkommen till dokumentationen.
+
+## Tillgängliga rapporter
+
+- [Ortsstruktur](./Ortsstruktur/)
